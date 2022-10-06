@@ -1,0 +1,4 @@
+{
+  "name": "ag-yarn-pnp-issue-repro",
+  "packageManager": "yarn@3.2.4"
+}
