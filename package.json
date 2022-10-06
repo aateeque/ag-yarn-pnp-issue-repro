@@ -1,4 +1,11 @@
 {
   "name": "ag-yarn-pnp-issue-repro",
-  "packageManager": "yarn@3.2.4"
+  "packageManager": "yarn@3.2.4",
+  "private": true,
+  "workspaces": [
+    "packages/ag-demo"
+  ],
+  "devDependencies": {
+    "@yarnpkg/sdks": "^3.0.0-rc.22"
+  }
 }
