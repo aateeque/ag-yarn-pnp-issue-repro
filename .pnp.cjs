@@ -33,6 +33,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
+            ["@types/jest", "npm:29.1.2"],\
             ["@yarnpkg/sdks", "npm:3.0.0-rc.22"]\
           ],\
           "linkType": "SOFT"\
@@ -5550,6 +5551,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["ag-yarn-pnp-issue-repro", "workspace:."],\
+            ["@types/jest", "npm:29.1.2"],\
             ["@yarnpkg/sdks", "npm:3.0.0-rc.22"]\
           ],\
           "linkType": "SOFT"\

@@ -2775,7 +2775,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest@npm:*":
+"@types/jest@npm:*, @types/jest@npm:^29.1.2":
   version: 29.1.2
   resolution: "@types/jest@npm:29.1.2"
   dependencies:
@@ -3584,6 +3584,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "ag-yarn-pnp-issue-repro@workspace:."
   dependencies:
+    "@types/jest": ^29.1.2
     "@yarnpkg/sdks": ^3.0.0-rc.22
   languageName: unknown
   linkType: soft

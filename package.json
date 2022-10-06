@@ -6,6 +6,7 @@
     "packages/ag-demo"
   ],
   "devDependencies": {
+    "@types/jest": "^29.1.2",
     "@yarnpkg/sdks": "^3.0.0-rc.22"
   }
 }
