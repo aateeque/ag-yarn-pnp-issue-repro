@@ -8,5 +8,8 @@
   "devDependencies": {
     "@types/jest": "^29.1.2",
     "@yarnpkg/sdks": "^3.0.0-rc.22"
+  },
+  "dependencies": {
+    "ag-grid-community": "^28.1.1"
   }
 }

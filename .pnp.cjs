@@ -34,7 +34,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["@types/jest", "npm:29.1.2"],\
-            ["@yarnpkg/sdks", "npm:3.0.0-rc.22"]\
+            ["@yarnpkg/sdks", "npm:3.0.0-rc.22"],\
+            ["ag-grid-community", "npm:28.2.0"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -5552,7 +5553,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["ag-yarn-pnp-issue-repro", "workspace:."],\
             ["@types/jest", "npm:29.1.2"],\
-            ["@yarnpkg/sdks", "npm:3.0.0-rc.22"]\
+            ["@yarnpkg/sdks", "npm:3.0.0-rc.22"],\
+            ["ag-grid-community", "npm:28.2.0"]\
           ],\
           "linkType": "SOFT"\
         }]\
